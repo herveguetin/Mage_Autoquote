@@ -10,6 +10,6 @@ Define a default shipping method to display flat rate shipping price in the cart
 
 Future development roadmap:
 
- - <s>Modman support</s> **Added 6/27/13**
+ - ~~Modman support~~ **Added 6/27/13**
  - Composer support
  - Refactor and certify for Magento Connect 2.0
